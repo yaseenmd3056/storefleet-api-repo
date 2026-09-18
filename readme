@@ -1,0 +1,19 @@
+1. Code analysis and debugging. ✅
+
+2. Implement welcome Email feature with nodemailer. ✅
+
+3. Handle Duplicate Key error in mongoDB. ✅
+
+4. Use mongoose middleware for password Hashing. ✅
+
+5. Implement forget password and reset password. ✅
+
+6. Fix Bug in securing Admin routes. ✅
+
+7. Implement Route and controller for updating user roles. ✅
+
+8.Execute product filtering, search capabilities and pagination. ✅
+
+9. Fix review delete feature and rating update. ✅
+
+10. Implement controller and repository for placing order. 
