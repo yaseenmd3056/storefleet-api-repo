@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import websocket from "websocket/lib/websocket";
 
 export const connectDB = async () => {
    try{
@@ -11,3 +12,4 @@ export const connectDB = async () => {
     console.log(error);
   }
 };
+
